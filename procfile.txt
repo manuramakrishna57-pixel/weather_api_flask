@@ -1,1 +1,1 @@
-web:gunicorn weatherreport:app
+web:gunicorn WeatherReport:app
